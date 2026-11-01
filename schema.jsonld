@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://drhainn277-boop.github.io/#person",
+  "name": "Nguyễn Ngọc Hải",
+  "alternateName": "Nguyen Ngoc Hai",
+  "honorificPrefix": "Bác sĩ",
+  "jobTitle": "Bác sĩ",
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Chấn thương chỉnh hình"
+  },
+  "description": "Bác sĩ Nguyễn Ngọc Hải là bác sĩ chấn thương chỉnh hình tại Bệnh viện E, Hà Nội, phẫu thuật nội soi và tái tạo khớp vai.",
+  "knowsAbout": [
+    "Nội soi khớp vai",
+    "Nội soi khớp gối",
+    "Thay khớp háng",
+    "Thay khớp gối",
+    "Shoulder arthroscopy",
+    "Rotator cuff repair"
+  ],
+  "worksFor": {
+    "@type": "Hospital",
+    "@id": "https://drhainn277-boop.github.io/#hospital",
+    "name": "Bệnh viện E",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "87–89 Trần Cung",
+      "addressLocality": "Cầu Giấy",
+      "addressRegion": "Hà Nội",
+      "addressCountry": "VN"
+    }
+  },
+  "telephone": "0985018868",
+  "knowsLanguage": "vi",
+  "url": "https://drhainn277-boop.github.io/",
+  "sameAs": [
+    "https://drhainn277-boop.github.io/",
+    "https://www.youtube.com/@bskhopvai",
+    "https://orcid.org/0009-0000-6573-8928",
+    "https://benhviene.com/bac-si/10169"
+  ]
+}
