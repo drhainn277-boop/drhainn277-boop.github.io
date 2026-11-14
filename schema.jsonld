@@ -11,7 +11,7 @@
     "name": "Chấn thương chỉnh hình"
   },
   "description": "Bác sĩ Nguyễn Ngọc Hải là bác sĩ chấn thương chỉnh hình tại Bệnh viện E, Hà Nội, phẫu thuật nội soi và tái tạo khớp vai.",
-  "disambiguatingDescription": "Bác sĩ chấn thương chỉnh hình tại Bệnh viện E, Hà Nội, chuyên phẫu thuật nội soi khớp vai và khớp gối, thay khớp háng và khớp gối; ORCID 0009-0000-6573-8928. Không phải bác sĩ cùng tên thuộc chuyên ngành Hồi sức – Cấp cứu.",
+  "disambiguatingDescription": "Bác sĩ chấn thương chỉnh hình tại Bệnh viện E, Hà Nội, chuyên phẫu thuật nội soi khớp vai và khớp gối, thay khớp háng và khớp gối; ORCID 0009-0000-6573-8928. Không phải bác sĩ cùng tên thuộc chuyên ngành Hồi sức – Cấp cứu ở Vinmec, cũng không phải bác sĩ cùng tên thuộc chuyên ngành Bệnh nhiệt đới. Orthopaedic and trauma surgeon at E Hospital, Hanoi, Vietnam; not the critical-care physician of the same name at Vinmec.",
   "knowsAbout": [
     "Nội soi khớp vai",
     "Nội soi khớp gối",
@@ -33,7 +33,10 @@
     }
   },
   "telephone": "0985018868",
-  "knowsLanguage": "vi",
+  "knowsLanguage": [
+    "vi",
+    "en"
+  ],
   "url": "https://drhainn277-boop.github.io/",
   "sameAs": [
     "https://drhainn277-boop.github.io/",
